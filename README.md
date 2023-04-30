@@ -4,6 +4,9 @@ Clockwise is a simple clock web application built with HTML, CSS, and JavaScript
 # Installation
 
 To use Clockwise, simply clone the repository and open the ```index.html``` file in your web browser.
+```
+git clone https://github.com/OmarElati/Clockwise.git
+```
 # Usage
 
 Once you have opened the index.html file, the clock will automatically start displaying the current time. The hour hand represents the hour, the minute hand represents the minute, and the second hand represents the second.
